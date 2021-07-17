@@ -7,3 +7,5 @@
 # Compiler Design
  * [write a C interpreter](https://github.com/lotabout/write-a-C-interpreter)
  * [Lests Build a Compiler](https://compilers.iecc.com/crenshaw/)
+ * [Expression Parsing](https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm)
+ * [Make Your Own Programming Language Lambda](https://lisperator.net/pltut/)
