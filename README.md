@@ -10,3 +10,5 @@
  * [Expression Parsing](https://www.engr.mun.ca/~theo/Misc/exp_parsing.htm)
  * [Make Your Own Programming Language Lambda](https://lisperator.net/pltut/)
  * [C Front(C with Classes - C++)](http://www.softwarepreservation.org/projects/c_plus_plus/index.html#cfront)
+ * [cs143.1128](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+ * [what-are-first-and-follow-sets-used-for-in-parsing](https://stackoverflow.com/questions/3818330/what-are-first-and-follow-sets-used-for-in-parsing)
