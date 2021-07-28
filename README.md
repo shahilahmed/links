@@ -17,3 +17,4 @@
  * [CodeIgniter Older Versions](https://web.archive.org/web/20080412024544/http://codeigniter.com/downloads/)
  * [List of Algorithms](https://en.wikipedia.org/wiki/List_of_algorithms)
  * [Classification Algorithms](https://en.wikipedia.org/wiki/Category:Classification_algorithms)
+ * [Public Datasets for AI,ML and DL](https://github.com/mikeizbicki/datasets)
